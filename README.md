@@ -307,3 +307,12 @@ Para diseñar y crear una aplicación móvil es fundamental: conocer el proceso 
             - Componentes que forman parte de la app.
             - Permisos (acceso agenda, micrófono, etc).
             - Niveles de la API requerido.
+
+![Elementos de una app](./images/t3_u4_01.png "Elementos de una app")
+
+### 4. Android: desarrollo de una app Android
+
+[Instalación de Android Studio](https://developer.android.com/studio/install?hl=es)
+
+
+## Plataformas de desarrollo - iOS
