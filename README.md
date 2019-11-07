@@ -316,3 +316,52 @@ Para diseñar y crear una aplicación móvil es fundamental: conocer el proceso 
 
 
 ## Plataformas de desarrollo - iOS
+
+### 1. Introducción
+
+- Sistema operativo de los dispositivos móviles de Apple. 
+- No se puede ejecutar en dispositivos de otras compañías. 
+- Apareció en 2007 con el primer iPhone.
+- Con OSx tienen en común herramientas y utilidades.
+- iOS Human Interface Guidelines: dan consejos de como debe funcionar la aplicación.
+- Guía de revisión de aplicaciones: todo lo que NO debemos hacer si se busca que aprueben la aplicación en el App Store.
+
+### 2. iOS: recursos para el desarrollo
+
+- Se necesita un ordenador de Apple para desarrollar aplicaciones para iOS.
+- Xcode: IDE para desarrollar de las apps para iOS.
+    - Se necesita un Apple ID.
+    - Si se quiere subir una APP hay que adquirir una cuenta de desarrollador (99$ anuales).
+- Se utiliza Objective-C y Swift.
+
+**Capas de iOS**
+- Siempre se recomienda empezar a programar utilizando la capa más alta.
+    - Se baja a niveles inferiores cuando no se puede realizar desde la capa superior.
+    -  Cada capa se compone de diferentes frameworks.
+        - **UIKit**: interfaz de usuario.
+        - **CoreData**: base de datos.
+        - **CoreGraphics**: dibujos y gráficos.
+        - **AVFoundation**: grabación, edición y reprodución de audio y vídeo. 
+        - **GLKit**: ayuda en la integración de 3D con el motor OpenGL.
+        - **MapKit**: mostrar mapas.
+        - **SpriteKit**: dev de juegos 2D.
+        - **StoreKit**: gestionar in-app purchases.
+        - Etc.
+
+![Frameworks iOS](./images/t4_u2_01.png "Framework iOS")
+
+- Capas
+    - Cocoa Touch
+    - Media
+    - Core Services
+    - Core OS
+
+- Estructura: modelo-vista-controlador
+
+![Frameworks iOS](./images/t4_u2_02.png "Framework iOS")
+
+- Componente básico: View controller
+    - Representa cada una de las pantallas de la aplicación.
+    - Se encarga de la gestión de las diferentes vistas de la pantalla.
+    - También de la entrada del usuario a través de tabs o gestos sobre la interfaz.
+    - Se encarga también de la comunicación con el modelo y de la actualización de las vistas cuando corresponda.
