@@ -399,3 +399,37 @@ Para diseñar y crear una aplicación móvil es fundamental: conocer el proceso 
         - Cube más cuota de mercado.
     - Inconvenientes
         - No explota todo el potencial del dispositivo.
+
+### 2. Desarrollo web
+- Se pueden crear aplicaciones: webapps.
+- Se consumen desde el móvil.
+    - HTML5
+        - Colección de estándares para el diseño y desarrollo web.
+        - Compatible con la mayoría de los navegadores.
+        - Focalizado en responsive web design.
+        - Capa de presentación => contenido estático.
+    - CSS 3
+        - Último estándar.
+        - Personaliza el contenido de HTML5.
+    - Javascript
+        - Lenguaje de programación interpretado por el navegador.
+        - jQuery Mobile
+        - Angular JS
+            - Mantenido por Google.
+            - Cargan el contenido bajo demanda.
+            - Permite patrone de diseños múltiples (MVC o MVVM) para SPA.
+            - Es posible unir código de JS a elementos HTML (binding code). Una modificación sobre el elemento de código se ve reflejado en la vista HTML.
+        - Materializecss
+            - Framework para un estilo material desing.
+            - Capa de presentación muy familiar para el usuario puesto que sigue patrones de diseño aplicados por Google.
+
+![Patrones de diseño](./images/t5_u2_01.png "Patrones de diseño")
+
+### 3. Apache Cordova
+- Apps híbridas.
+    - Web app con envoltorio preparada para ejecutarse como una app nativa.
+    - Expone una API para acceder a elementos propios del dispositivo (acelerómetro, cámara, contactos, notificaciones, etc.)
+    
+![Arquitectura de APP híbrida](./images/t5_u3_01.png "Arquitectura de APP híbrida")
+
+## Realidad aumentada
