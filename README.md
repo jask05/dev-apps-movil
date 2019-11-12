@@ -365,3 +365,37 @@ Para diseñar y crear una aplicación móvil es fundamental: conocer el proceso 
     - Se encarga de la gestión de las diferentes vistas de la pantalla.
     - También de la entrada del usuario a través de tabs o gestos sobre la interfaz.
     - Se encarga también de la comunicación con el modelo y de la actualización de las vistas cuando corresponda.
+
+### 3. iOS: desarrollo de una aplicación iOS
+- Tour por Xcode.
+    - Ejemplo: aplicación para iOS de una sola vista.
+    - **Storyboard**: archivo en el cual se define el interfaz de las diferentes pantallas de la aplicación.
+
+## Plataformas de desarrollo - Desarrollo Multiplataforma
+
+### 1. Introducción
+
+- Tipos: desarrollo web
+    - Experiencia más usable.
+    - Adecuado para desarrolladores con experiencia web.
+    - Consumo a través del navegador.
+    - Requiere internet.
+- Tipos: desarrollo no-nativo
+    - Aplicaciones con necesidades más específicas.
+    - Adecuado para desarrolladores con experiencia en algún lenguaje de programación específico.
+    - Consumo a través de la aplicación.
+- Ejemplos de tecnología
+    - HTML5 + jQuery Mobile.
+    - Angular JS + MaterializeCSS.
+- Ejemplos de desarrollo no-nativo
+    - PhoneGap.
+    - Apache Cordova.
+    - Unity.
+    - Appcelerator.
+    - Xamarin.
+- Multiplataforma vs no-nativo
+    - Ventajas
+        - Reduce costes: tiempo y perfiles tecnológicos.
+        - Cube más cuota de mercado.
+    - Inconvenientes
+        - No explota todo el potencial del dispositivo.
