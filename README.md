@@ -478,6 +478,13 @@ Para diseñar y crear una aplicación móvil es fundamental: conocer el proceso 
     - No vale cualquier marcador, tiene que estar entrenada la aplicación-
     - Imágenes mejor que códigos QR.
 
+### 3. Retos de la realidad aumentada
+- Limitaciones
+    - Iluminación e imperfecciones: luminosidad, sombras, etc. puede hacer que el marcador se vea mejor o peor.
+    - Ubicación
+        - Exteriores.
+        - Interiores. Ubicación basada en señales Wifi o balizas de radiofrecuencias.
+
 
 ## Stores, comercialización y análisis de usuarios
 
