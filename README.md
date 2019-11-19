@@ -433,3 +433,52 @@ Para diseñar y crear una aplicación móvil es fundamental: conocer el proceso 
 ![Arquitectura de APP híbrida](./images/t5_u3_01.png "Arquitectura de APP híbrida")
 
 ## Realidad aumentada
+
+### 1. Realidad aumentada: introducción
+- Aumentar percepción del mundo usando medios artificiales.
+- Implica incorporar más información y la forma en la que se consigue.
+- Proporciona al ojo estímulos adicionales que enriquezcan la percepción del estímulo.
+- Brújula.
+- Colocación del teléfono: giroscopio y acelerómetro.
+- Cámara
+
+### 2. Resolviendo problemas con la realidad aumentada
+- Requisitos para la realidad aumentada
+    - Sensores
+- Ámbitos de aplicación
+    - Arqueología
+    - Diseño (arquitectura/industria)
+    - Arte
+    - Comercio
+    - Construcción
+    - Vida diaria
+    - Juegos
+    - Etc. 
+- Realidad mixta o híbrida: no es una realidad aumentada como tal, más bien es una alteración de la realidad en la cual se incorporan elementos virtuales.
+    - Planos
+    - Muebles
+    - Diseños
+    - Etc.
+- Esfuerzo tecnológico
+    - Elegir plataforma e instalar. Algunas no necesitan instalación (Layar).
+    - Desarrollar la aplicación en el PC.
+    - Probar la aplicación en el móvil.
+- Esfuerzo creador
+    - Contenido artículos.
+    - Contenidos de información.
+- Plataformas
+    - Vuforia
+    - Layar
+    - ARToolKit
+    - Kudan
+    - Wikitude
+    - HoloBuilder
+- Marcadores
+    - Permiten reconocer una zona concreta y volcar información sobre ella.
+    - No vale cualquier marcador, tiene que estar entrenada la aplicación-
+    - Imágenes mejor que códigos QR.
+
+
+## Stores, comercialización y análisis de usuarios
+
+## La industria de las apps - Experiencias
