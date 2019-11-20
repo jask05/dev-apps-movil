@@ -488,4 +488,88 @@ Para diseñar y crear una aplicación móvil es fundamental: conocer el proceso 
 
 ## Stores, comercialización y análisis de usuarios
 
+### 1. El camino
+- Fase de definición
+    - APP
+        - Definir la finalidad
+        - Funcionalidades
+        - Actualizaciones
+    - Target
+        - Identificar público objetivo
+            - Estadísticas segmentadas
+                - Edad
+                - Género
+                - Origen
+                - Hábitos
+            - Necesidad
+            - Demanda
+    - Modelo de negocio
+        - Identificar el modelo de negocio más adecuado
+            - Publicidad
+                - Nº visualizaciones
+                - Nº clicks
+                - Quitar publicidad
+            - Por descarga
+            - Modelo Premium
+            - Modelo Freemium
+    - Competencia
+        - Estudio de mercado de apps similares
+            - Nº de descargas
+            - Frecuencia actualización
+            - Valoraciones
+            - Modelos de negocio
+    - Stores
+        - Elegir la tienda de aplicaciones adecuada
+
+### 2. Análisis de usuarios
+- Identificar al usuario, atraerlo y retenerlo.
+- Diseño: buena experiencia del usuario (UX).
+    - Prototipado
+        - Sketchap
+        - Invisionapp
+    - Feedback
+        - Escuchar al usuario.
+    - Test A/B
+        - Unas a un conjunto de usuarios y la otra, a otro grupo.
+        - Coger métricas de ambos para saber cual es la mejor.
+- Maximizar ASO (App Store Optimization)
+    - Características que posicionan mejor la app dentro de los markets.
+    - Iconos llamativos.
+    - Descripción.
+    - Screenshot vistosas.
+    - Revisar valoraciones.
+    - Actualizaciones.
+- Captación
+    - Social media
+    - Gamificación: ayuda a atraer y retener usuarios. 
+        - Facilita tareas monótonas.
+        - Minimiza tiempos de adopción.
+
+### 3. Comercialización: seguimiento
+- Google Play / ItunesConnect
+    - Estadísticas
+        - Herramientas complementarias
+            - Azure: AppInsights
+                - Información genérica.
+                - Custom event.
+            - Amazon webservices
+                - Amazon Mobile Analytics.
+    - Ingresos.
+    - Valoraciones.
+    - Errores y ANRS (Application Not Responding).
+    - Segmentación
+        - Dispositivo
+        - País
+        - Versión de SO        
+- Herramientas en la nube
+    - Adobe Analytics: Mobile Apps (Apache Cordova).
+    - Unity Analytics: mapas de calor.
+    - Business Intelligence (BI)
+        - Recopilar datos para crear informes, analizar el por qué y predecir comportamientos.
+        - Google Analytics.
+    - Localytics
+        - Asocia datos extraídos y los vincula a campañas de márketing.
+    - Flurry: interacción de usuario con la app, segmentación, geolocalización, etc.
+    - Otras: Apsalar, Bango, Distimo, MobClix, Mopapp, Testflught live, etc.
+
 ## La industria de las apps - Experiencias
