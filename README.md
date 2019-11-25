@@ -573,3 +573,82 @@ Para diseñar y crear una aplicación móvil es fundamental: conocer el proceso 
     - Otras: Apsalar, Bango, Distimo, MobClix, Mopapp, Testflught live, etc.
 
 ## La industria de las apps - Experiencias
+
+### 1. Industria: apps y juegos
+- Explicación del nacimiento del primer iPhone, como se creó su App Store y cómo influenció en los juegos.
+
+### 2. Industria: apps y salud
+- Salud y bienestar
+    - Pensadas para el gran consumo, no enfermos.
+    - Ayudan en la mejora de nuestro estado de forma.
+    - No orientada a la cura o mejoras de enfermedades.
+    - Ejemplo: Runtastic, Heart Rate.
+    - Características
+        - Ofrecen info sobre una enfermedad concreta.
+        - Herramientas que facilitan el tratamiento al paciente.
+    - Problemas
+        - El contenido supervisado por profesionales.
+        - La FDA americana certifica qué tipos de apps se consideran medical devices.
+        - España, Junta de Andalucía, promueve la iniciativa AppSaludable.
+    - Barreras
+        - \> 60 años que no tienen smartphones y si lo tienen solo se utiliza la cámara.
+    - Protocolos de seguridad
+        - La bd debe estar debidamente securizada.
+        - Comunicaciones cifradas con protocolos SSL.
+        - Nadie, salvo el usuario mediante su clave privada, puede acceder a sus datos.
+- Medicina
+    - Funcionalidades avaladas científicamente.
+    - Algoritmos de obtención de datos certificados.
+    - Orientadas a pacientes, médicos o ambos.
+- Puntos clave
+    - Objetivos de negocio
+        - Pagos por descarga.
+        - Valor añadido como producto de un servicio más grande.
+    - Tipos de usuarios
+        - Paciente: perfil al que está enfocada la mayoría de apps de salud.
+        - Cuidador: familiar o persona cercana. Puede monitorizar al paciente y servirle de apollo.
+        - Médico: conexión con paciente. Bidireccional. Conexión interna entre médicos.
+
+### 3. Consejos para desarrollar un proyecto de app
+- Idea inicial
+    - Búsqueda exhaustiva de iniciativas similares.
+    - ¿De qué manera se ha abordado el problema?
+    - Tamaño del mercado.
+    - Potencial margen de beneficios.
+    - Oportunidad de negocio.
+    - Coste de adquisición de clientes.
+    - Conocer los límites técnicos con los que se cuenta.
+    - Dimensionar de forma realista el alcance del proyecto.
+    - Proteger idea
+        - Desarrollarlas rápidamente.
+        - Madurar la idea.
+        - Acuerdo de confidencialidad (NDA).
+        - Evitar dar detalles sensibles.
+    - Trabajar a partir de un producto mínimo viable. (MVP)
+        - Reducir primera idea a las funcionalidades estrictamente básicas.
+- Probar con usuarios reales.
+- Feedback = versión mejorada.
+- Elaborar un diagrama de pantallas. Diferentes menús y opciones.
+- Centrarse en una sola plataforma en un principio.
+- Planificar por fases el desarrollo de diferentes plataformas.
+- Definición y planificación del proyecto.
+- Equipo de desarrollo.
+- Cuidar imagen del marca y pequeños detalles.
+- Planificar el desarrollo como un proceso iterativo y flexible.
+- Abiertos a cambios no previstos.
+- Relación estrecha con el equipo de desarrollo.
+- Tecnología a utilizar. 
+- Costes
+    - Desarrollo
+    - Puesta en marcha
+    - Mantenimiento
+- Equipo técnico con experiencia.
+- Comprender las necesidades del proyecto.
+- Capaz de anticipar y solventar problemas técnicos complejos.
+- Equipo con capacidad para la puesta en marcha del proyecto.
+- Garantizar mantenimiento posterior al lanzamiento.
+- Cuidad textos e imágenes.
+- Planificar la gestión de cuentas y subidas de la app.
+- Registrar nombre comercial, logotipo y dominio web.
+- El desarrollo es solo el comienzo.
+- No olvidar gastos futuros de mantenimiento, correctivo, evolutivo, etc.
